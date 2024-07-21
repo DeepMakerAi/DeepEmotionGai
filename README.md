@@ -4,7 +4,6 @@
 
 AI情绪与人格智能体是一个革命性的人工智能系统,彻底改变人机交互的方式。通过深度学习和先进的自然语言处理技术,我们创造了一个能够模拟人类情感、个性和行为的AI大模型。
 #### 代码将持续更新，欢迎交流
-21721563056_.pic.jpg
 ![Image text](https://github.com/DeepMakerAi/DeepEmotionGai/resource/21721563056_.pic.jpg)
 ## 核心功能
 
